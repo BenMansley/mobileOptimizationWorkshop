@@ -1,0 +1,17 @@
+$bodyFont: 'Montserrat', sans-serif;
+$headingFont: 'Fredoka One', sans-serif;
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: $bodyFont;
+}
+
+.title {
+  font-size: 4em;
+  font-family: $headingFont;
+}
